@@ -1,6 +1,6 @@
-# Stunning 3D Portfolio Website
+# Stunning 3D Personal Portfolio Website
 
-![screen-shot](https://i.imgur.com/JHgrRn6.png)
+![screen-shot](https://i.imgur.com/aEvanlm.png)
 
 You can see a live preview of the Stunning 3D Portfolio Website [here](https://3d-portfolio-eskew.netlify.app).
 
