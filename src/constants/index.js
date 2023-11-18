@@ -120,9 +120,8 @@ const experiences = [
     iconBg: '#E6DEDD',
     date: 'July 2022 - Aug 2022',
     points: [
-      'Leader of a research team that created and manipulated a robot through Arduino programming which cleans and paints the chimney of a thermal power plant.',
-      'Conducting robotics workshop for junior students.',
-      'Planning a monthly schedule of team operation.',
+      'Joined a passionate team to construct an intelligent robot, the Smart Maze Solver, equipped with cutting-edge algorithms for autonomous navigation through intricate mazes.',
+      'Crafting efficient code and enhancing software functionality to elevate the performance of robotic systems.',
       'Building and assembling robots as part of hands-on sessions.',
     ],
   },
@@ -186,7 +185,7 @@ const testimonials = [
   },
   {
     testimonial:
-      "Andrew, a tech explorer with diverse GitHub projects, excels in AI and app dev't. He leveraged experience, embraced challenges, and eagerly sought improvement, demonstrating a keen learning spirit.",
+      "Andrew loves to tinker with AI and web technologies. This prior programming experience aided him in AddisCoder, yet he found challenge in the algorithmic concepts and was not shy to ask questions.",
     name: 'Georg Osang',
     designation: 'Mathematical Scientist',
     company: 'IDEMS',
